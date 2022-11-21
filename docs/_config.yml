@@ -1,0 +1,53 @@
+remote_theme: chrisrhymes/bulma-clean-theme
+
+# Site Settings
+lang: es
+title: Proyecto Integrador: Un proceso de ingeniería de características
+tagline: MCD-UNISON 
+email: a214200821@unison.mx
+description: Página del proyecto final del curso Ingeniería de Características de la UNISON. Se describe el proceso de extracción, limpieza y representación de datos para contar la historia: ¿qué es lo que le ocurre a un migrante que no logra cruzar la frontera Sonora-Arizona?
+baseurl: "/"
+url: "https://mcd-unison/ing-caract-manzanares"
+permalink: pretty
+#favicon: /path/to/favicon.png
+#gh_sponsor: juliowaissman
+#hide_share_buttons: true
+#theme_color: '#eeeeee'
+#fixed_navbar: top
+footer_menu: footer
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: false
+
+markdown: kramdown
+highlighter: rouge
