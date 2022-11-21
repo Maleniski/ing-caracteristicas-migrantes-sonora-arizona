@@ -6,4 +6,4 @@ En este repositorio se encuentra el proyecto final del curso de Ingeniería de C
 **Nota.** Repositorios relacionados al curso:
 
 * [Repositorio matriculados_sonora_lic_2021](https://github.com/Maleniski/matriculados_sonora_lic_2021).
-* [Repositorio con la mayoria de las tareas del curso](https://github.com/Maleniski/ing-caracteristicas).
+* [Repositorio con la mayoría de las tareas del curso](https://github.com/Maleniski/ing-caracteristicas).
