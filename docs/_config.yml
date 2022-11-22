@@ -5,7 +5,7 @@ lang: es
 title: titulo
 tagline: MCD-UNISON 
 email: male141@hotmail.com
-description: Página del proyecto final del curso Ingeniería de Características de la UNISON. Se describe el proceso de extracción, limpieza y representación de datos para contar la historia: ¿qué es lo que le ocurre a un migrante que no logra cruzar la frontera Sonora-Arizona?
+description: Página del proyecto final del curso Ingeniería de Características de la UNISON. Se describe el proceso de extracción, limpieza y representación de datos para contar la historia ¿qué es lo que le ocurre a un migrante que no logra cruzar la frontera Sonora-Arizona?
 baseurl: "/"
 url: "https://Maleniski/ing-caracteristicas-migrantes-sonora-arizona"
 permalink: pretty
