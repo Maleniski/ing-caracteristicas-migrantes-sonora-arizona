@@ -13,7 +13,7 @@ Los datos de la SEGOB nos presenta información de repatriados desde Estados Uni
 
 Para hacer una comparación lo más justa posible, se limitaron los datos a los registros de ambas tablas del 2016 al 2021 y posteriormente se hizo una armonización de las tablas para trabajar con solamente una. Los datos armonizados con los datos de las fuentes a noviembre del 2022 estan disponibles en [esta](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/blob/main/migrantsdata.parquet.gzip) liga para su uso.
 
-Se deja también a disposición el script de python que realiza la extracción desde la fuente, limpieza y armonización en la siguiente liga.
+Se deja también a disposición el script de python que realiza la extracción desde la fuente, limpieza y armonización en la siguiente [liga](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/blob/main/script_limpieza_memm.py).
 
 El análisis exploratorio de datos puede ser localizado en [este](https://colab.research.google.com/drive/1Fsi7c6mfygu9j_oj2BnoG1lCVmaGWYY8?usp=sharing) Jupyter Notebook en Colab así como un tratamiento completo de los datos en este [otro](https://colab.research.google.com/drive/1F4Tm9_K_bTLebk-QxemxPJVVjkkHA7Up?usp=sharing) Jupyter Notebook de Colab.
 
