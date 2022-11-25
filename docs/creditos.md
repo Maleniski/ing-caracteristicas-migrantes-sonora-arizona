@@ -16,7 +16,6 @@ Tablero realizado con la plataforma [Tableau Public](https://public.tableau.com/
 
 # Recursos utilizados para la página web.
 
-* [Liga](https://fondosmil.com/naranja) - Fondo de apartado "Créditos".
 * [Liga](https://cronkitenews.azpbs.org/2021/07/13/migrant-deaths-in-the-desert-at-record-levels-as-heat-wave-pounds-west/) - Fondo de apartado "Sobre los datos".
 * [Liga](http://www.mathycathy.com/blog/2012/07/a-midsummer-nights-reality-check/) - Fondo de apartado "Sobre mi".
 * [Liga](https://www.afsc.org/xs/mexico?es) - Fondo de "Home".
