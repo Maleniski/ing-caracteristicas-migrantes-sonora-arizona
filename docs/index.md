@@ -22,4 +22,4 @@ Gracias por tu visita.
 María Elena (Malena) Manzanares.
 
 
-<img src="https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/MediumSquareLogo.png" alt="Logo MCD-UNISON" height="4">
+<img src="https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/MediumSquareLogo.png" alt="Logo MCD-UNISON" height="2">
