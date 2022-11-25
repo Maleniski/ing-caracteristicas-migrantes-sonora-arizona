@@ -2,7 +2,6 @@
 title: Créditos
 subtitle: Fuentes y recursos utilizados para este trabajo
 layout: page
-hero_image: https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/24185.jpg
 hero_darken: true
 show_sidebar: false
 ---
