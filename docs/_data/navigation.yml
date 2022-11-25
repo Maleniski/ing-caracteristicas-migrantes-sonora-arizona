@@ -1,5 +1,9 @@
 - name: Sobre Mi
   link: /sobremi/
+- name: Sobre los datos
+  link: /sobrelosdatos/
+- name: Créditos
+  link: /creditos/  
   #dropdown:
   #  - name: Introducción 
   #    link: /intro/
