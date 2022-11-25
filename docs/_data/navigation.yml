@@ -2,6 +2,8 @@
   link: /sobremi/
 - name: Sobre los datos
   link: /sobrelosdatos/
+- name: Tablero
+  link: /tablero/    
 - name: Créditos
   link: /creditos/  
   #dropdown:
