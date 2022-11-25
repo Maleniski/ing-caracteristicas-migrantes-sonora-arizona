@@ -2,7 +2,6 @@
 title: Créditos
 subtitle: Fuentes y recursos utilizados para este trabajo
 layout: page
-hero_darken: true
 show_sidebar: false
 ---
 
