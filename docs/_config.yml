@@ -9,7 +9,7 @@ description: Página del proyecto final del curso Ingeniería de Característica
 baseurl: "/"
 url: "https://Maleniski/ing-caracteristicas-migrantes-sonora-arizona"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/favicon.ico
 #gh_sponsor: juliowaissman
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
