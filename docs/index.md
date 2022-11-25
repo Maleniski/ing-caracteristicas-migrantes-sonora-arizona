@@ -1,24 +1,21 @@
 ---
-title: Página
-subtitle: Maestría en Ciencia de Datos, Universidad de Sonora
+title: Inmigrantes localizados en frontera Arizona-Sonora
+subtitle: Un proyecto de Ingeniería de Características de MCD-UNISON
 layout: page
 hero_image: https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/Crossing%20South.png
 hero_darken: true
 show_sidebar: false
 ---
 
+# ¡Bienvenido!
 
-## Temario
+En esta página podrás encontrar todo lo referente respecto al proyecto de recolección y visualización de datos de inmigrantes localizados en la frontera Sonora y Arizona.
 
-1. **Introducción**
-   1. Motivación y presentación
-   2. Uso de herramientas para Ciencia de Datos 
-2. **Integración de datos de diferentes fuentes**
-   1. Lectura de formatos `csv`, `json`, `xml`, `sql`
-   2. Uso de API's para adquirir información
-   3. Operaciones comunes en `dataframes`
-3. **Tipos de datos**
-   1. Datos numéricos
-   2. Datos cualitativos
-   3. Cadenas de caracteres
-   4. Fechas, horas y series de tiempo
+Este proyecto fue el resultado de la tarea final del curso de Ingeniería de Características de la Maestría en Ciencia de Datos de la Universidad de Sonora. Puedes descubrir más haciendo en los banners de la parte superior de esta página.
+
+Gracias por tu visita.
+
+María Elena (Malena) Manzanares.
+
+
+
