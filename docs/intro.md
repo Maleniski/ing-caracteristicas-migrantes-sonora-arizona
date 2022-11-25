@@ -1,30 +1,18 @@
 ---
-title: Introducción
-subtitle: Curso Ingeniería de Características
+title: Sobre mi
+subtitle: Datos de contacto y portafolio
 layout: page
-hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/rectoria2_muse.jpg
+hero_image: https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/Math-Tagxedo.jpg
 hero_darken: true
 show_sidebar: false
 ---
 
-## Presentaciones
+Mi nombre es María Elena Martínez Manzanares. Actualmente soy estudiante del Doctorado en Ciencias Matemáticas y de la Maestría en Ciencia de Datos, ambas en la  Universidad de Sonora y también soy estudiante de Licenciatura en Enseñanza de las Matemáticas en la Universidad Abierta y a Distancia de México.
 
-1. [Presentación inicial del curso](https://github.com/mcd-unison/ing-caract/raw/main/slides/inicial.pdf)
-2. [Datos crudos (*raw*) vs ordenados (*tidy*)](https://github.com/mcd-unison/ing-caract/raw/main/slides/RawAndProcessedData.pdf)
-3. [Características de los datos ordenados](https://github.com/mcd-unison/ing-caract/raw/main/slides/ComponentsOfTidyData.pdf)
+Tengo experiencia en traslado, manipulación, modelado y análisis de datos de todo tipo a través de diferentes herramientas, conocimiento de aprendizaje automático, optimización matemática, y procesos estocásticos, así como en el diseño de material didáctico de matemáticas para nivel superior.
 
+Puedes ver más sobre mi en [LinkedIn](https://www.linkedin.com/in/malenamanzanares/), en [GitHub](https://github.com/Maleniski) y en [ResearchGate](https://www.researchgate.net/profile/Maria-Martinez-Manzanares). También puedes leer algunas de mis publicaciones en [Medium](https://medium.com/@Maleniski).
 
-## Python
+Gracias por visitar mi página.
 
-- [Libretas jupyter](intro-jupyter.html)
-- Algunas opciones de libretas jupyter en linea:  
-   - [Binder](https://mybinder.org)
-   - [Colaborative (Colab)](https://colab.research.google.com)
-   - [Kaggle](https://www.kaggle.com/code)
-   - [DeepNote](https://deepnote.com)
-   - [SageMaker Studio Lab](https://studiolab.sagemaker.aws)
-   - [Datalore](https://datalore.jetbrains.com/)
-- Algunos cursos introductorios:
-  - Un [curso muy introductorio y libre de Datacamp en español](https://www.datacamp.com/community/open-courses/introduccion-a-python).
-  - El [curso de *swcarpentry*](https://swcarpentry.github.io/python-novice-inflammation/) que si no es visualmente muy atractivo, ni muy actualizado, es un buen curso introductorio de python para ciencia de datos.
-  - Los [cursos básicos de Kaggle](https://www.kaggle.com/learn) (*Intro to programming*, *python* y *pandas*) suelen estar bien, son tambien un buen punto de partida.
+Hermosillo, Sonora a 25 de noviembre del 2022.
