@@ -1,5 +1,7 @@
 - name: Temas
   link: /#
-  dropdown:
-    - name: Introducción 
-      link: /intro/
+- name: Sobre Mi
+  link: /sobremi/
+  #dropdown:
+  #  - name: Introducción 
+  #    link: /intro/
