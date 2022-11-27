@@ -7,7 +7,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-<img style="float: left;" src="https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/IMG_0224_redimensionada.jpg">
+<img style="float: left;" src="https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/maelena.jpg">
 
 Mi nombre es María Elena Martínez Manzanares. Actualmente soy estudiante del Doctorado en Ciencias Matemáticas y de la Maestría en Ciencia de Datos, ambas en la  Universidad de Sonora y también soy estudiante de Licenciatura en Enseñanza de las Matemáticas en la Universidad Abierta y a Distancia de México.
 
