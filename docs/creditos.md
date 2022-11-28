@@ -5,9 +5,9 @@ layout: page
 show_sidebar: false
 ---
 
-# Dashbord.
+# Dashboard.
 
-Tablero realizado con la plataforma [Tableau Public](https://public.tableau.com/app/discover).
+Tablero realizado con la plataforma [Tableau Public](https://public.tableau.com/app/discover) disponible en la siguiente [liga](https://public.tableau.com/app/profile/maleniski/viz/InmigranteslocalizadosenfronteraSonora-Arizona2016-2021/Overview).
 
 # Liga a las fuentes de datos utilizadas.
 
