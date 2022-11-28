@@ -13,6 +13,20 @@ Se compone de cuatro páginas. La primera presenta un resumen de los datos, la s
 
 Se presentan a continuación capturas del tablero.
 
+**Overview**
+
 ![](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/Overview.png)
+
+**Muertos**
+
+![](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/Muertos.png)
+
+**Vivos**
+
+![](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/Vivos.png)
+
+**Información general**
+
+![](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/Informaci%C3%B3n%20general.png)
 
 
