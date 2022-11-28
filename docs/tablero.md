@@ -7,3 +7,8 @@ hero_darken: true
 show_sidebar: false
 ---
 
+
+<tableau-viz id="viz1669615993161"       
+  src='https://public.tableau.com/views/InmigranteslocalizadosenfronteraSonora-Arizona2016-2021/Overview?:language=en-US&:display_count=n&:origin=viz_share_link'      
+   toolbar="bottom">
+</tableau-viz>
