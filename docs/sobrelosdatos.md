@@ -11,7 +11,7 @@ Se utilizaron dos fuentes principales para este proyecto. El apartado de la SEGO
 
 Los datos de la SEGOB nos presenta información de repatriados desde Estados Unidos a México del 2016 al 2021, por lo cual se restringieron los datos a repatriados localizados en la frontera de Sonora con Arizona. El Arizona OpenGIS Initiative for Deceased Migrants nos presenta los datos desde 2000 al 2021 de inmigrantes localizados sin vida en Arizona. 
 
-Para hacer una comparación lo más justa posible, se limitaron los datos a los registros de ambas tablas del 2016 al 2021 y posteriormente se hizo una armonización de las tablas para trabajar con solamente una. Los datos armonizados con los datos de las fuentes a noviembre del 2022 estan disponibles en [esta](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/blob/main/migrantsdata.parquet.gzip) liga para su uso.
+Para hacer una comparación lo más justa posible, se limitaron los datos a los registros de ambas tablas del 2016 al 2021 y posteriormente se hizo una armonización de las tablas para trabajar con solamente una. Los datos armonizados con los datos de las fuentes a noviembre del 2022 estan disponibles en [esta](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/blob/main/migrantsdata.parquet.gzip) liga para su uso, con su respectivo diccionario en [esta](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/blob/main/Diccionario.xlsx) liga.
 
 Se deja también a disposición el script de python que realiza la extracción desde la fuente, limpieza y armonización en la siguiente [liga](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/blob/main/script_limpieza_memm.py).
 
