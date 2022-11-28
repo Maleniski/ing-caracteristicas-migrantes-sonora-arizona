@@ -7,10 +7,12 @@ hero_darken: true
 show_sidebar: false
 ---
 
-<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
-<tableau-viz id="viz1669615993161"       
-  src='https://public.tableau.com/views/InmigranteslocalizadosenfronteraSonora-Arizona2016-2021/Overview?:language=en-US&:display_count=n&:origin=viz_share_link'      
-   toolbar="bottom">
-</tableau-viz>
+El tablero fue realizado por medio de Tableau Public, y puede ser accedido a través de la siguiente [liga](https://public.tableau.com/app/profile/maleniski/viz/InmigranteslocalizadosenfronteraSonora-Arizona2016-2021/Overview). 
 
-Si tienes problemas visualizando el tablero, puedes verlo directamente desde Tableau Public en esta [liga](https://public.tableau.com/app/profile/maleniski/viz/InmigranteslocalizadosenfronteraSonora-Arizona2016-2021/Overview).
+Se compone de cuatro páginas. La primera presenta un resumen de los datos, la segunda presenta información a detalle de los localizados muertos. La tercera contiene datos de localizados vivos y deportados a México. La última pestaña presenta información general.
+
+Se presentan a continuación capturas del tablero.
+
+![](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/raw/main/docs/imagenes/Overview.png)
+
+
