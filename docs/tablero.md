@@ -12,3 +12,5 @@ show_sidebar: false
   src='https://public.tableau.com/views/InmigranteslocalizadosenfronteraSonora-Arizona2016-2021/Overview?:language=en-US&:display_count=n&:origin=viz_share_link'      
    toolbar="bottom">
 </tableau-viz>
+
+Si tienes problemas visualizando el tablero, puedes verlo directamente desde Tableau Public en esta [liga](https://public.tableau.com/app/profile/maleniski/viz/InmigranteslocalizadosenfronteraSonora-Arizona2016-2021/Overview).
