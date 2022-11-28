@@ -30,3 +30,5 @@ Tablero realizado con la plataforma [Tableau Public](https://public.tableau.com/
 * [Liga](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/blob/main/script_limpieza_memm.py) - Script de recolección y limpieza de datos.
 * [Liga](https://colab.research.google.com/drive/1Fsi7c6mfygu9j_oj2BnoG1lCVmaGWYY8?usp=sharing) - Notebook con análisis exploratorio de datos.
 * [Liga](https://colab.research.google.com/drive/1F4Tm9_K_bTLebk-QxemxPJVVjkkHA7Up?usp=sharing) - Notebook con análisis integrador de los datos y armonización de las variables.
+* [Liga](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/blob/main/migrantsdata.parquet.gzip) - Datos finales utilizados en el tablero.
+* [Liga](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona/blob/main/Diccionario.xlsx) - Diccionario de datos finales utilizados en el tablero.
