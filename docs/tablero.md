@@ -11,6 +11,14 @@ El tablero fue realizado por medio de Tableau Public, y puede ser accedido a tra
 
 Se compone de cuatro páginas. La primera presenta un resumen de los datos, la segunda presenta información a detalle de los localizados muertos. La tercera contiene datos de localizados vivos y deportados a México. La última pestaña presenta información general.
 
+El tablero es responsivo, y seleccionar parte de las gráficas (por ejemplo, seleccionar alguna de las barras de las gráficas) creara un filtro de los datos en base a la selección.
+
+Algunos filtros responden preguntas interesantes como:
+
+1. ¿Cuántos deportados tiene posgrado completado, y cuál dependencia capturó a la mayoría?
+2. ¿Cuántos deportados tienen más de 70 años, y cuál dependencia que los capturó?
+3. ¿Cuáles son las causas de muertes más comunes entre los inmigrantes localizados muertos?
+
 Se presentan a continuación capturas del tablero.
 
 **Overview**
